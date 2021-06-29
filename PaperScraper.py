@@ -4,7 +4,7 @@ from os import makedirs
 
 
 # edit these two parameters
-URL = "https://warwick.ac.uk/services/exampapers/?q=&department=ES&year="
+URL = "https://warwick.ac.uk/services/exampapers/?q=&department=CS&year="
 COOKIE_TOKEN = "your token here"
 
 
