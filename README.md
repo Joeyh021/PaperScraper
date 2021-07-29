@@ -12,6 +12,35 @@ By default the url points to all DCS past papers for all years. You can change t
 
 The papers are organised by year. If you want to make a PR to organise them by module or some other way feel free.
 
+## Department Codes
+
+Each department has a two letter code
+
+department| code 
+--|--
+Applied Linguistics  | ET
+Centre for Lifelong Learning  | CE
+Centre for Scientific Computing | CY
+Chemistry | CH
+Classics & Ancient History | CX
+Comparative American Studies | AM
+Computer Science | CS
+Economics | EC
+Education Studies | EQ
+English and Comparative Literary Studies | EN
+Physics |PX
+Politics & International Studies |PO
+Psychology |PS
+School of Engineering |ES
+School of Health & Social Studies |AS
+School of Law |LA
+School of Modern Languages and Cultures |LN
+Sociology |SO
+Statistics |ST
+Theatre and Performance Studies |TH
+Warwick Business School |IB
+Warwick Mathematics Institute |MA
+
 ## Disclaimer
 
 This script is provided for personal use only. Downloaded papers may not be shared with anyone, even other students. I am not responsible for anything you do with this script, nor anything you do with the files you download using it.

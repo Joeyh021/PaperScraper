@@ -1,0 +1,23 @@
+#un-comment any departments to download
+#ET Applied Linguistics
+#CE Centre for Lifelong Learning
+#CY Centre for Scientific Computing
+#CH Chemistry
+#CX Classics & Ancient History
+#AM Comparative American Studies
+#CS Computer Science
+#EC Economics
+#EQ Education Studies
+#EN English and Comparative Literary Studies
+#PX Physics
+#PO Politics & International Studies
+#PS Psychology
+#ES School of Engineering
+#AS School of Health & Social Studies
+#LA School of Law
+#LN School of Modern Languages and Cultures
+#SO Sociology
+#ST Statistics
+#TH Theatre and Performance Studies
+#IB Warwick Business School
+#MA Warwick Mathematics Institute
