@@ -8,7 +8,7 @@ You'll need to provide an SSO token from a cookie so the script can access the p
 
 Next open devtools, and navigate to the storage tab. There you should be able to find your cookies for this site. You want with one with the key `WarwickSSO`. Copy the value of it, and assign it to the constant `COOKIE_TOKEN` in the script.
 
-By default the url points to all DCS past papers for all years. You can change this by navigating to the page you want the papers from, and changing the `URL` parameter at the top of the script.
+By default no departments are selected you can change this by un-commenting the department(s) of your choice in departments.txt
 
 The papers are organised by year. If you want to make a PR to organise them by module or some other way feel free.
 
